@@ -1,0 +1,15 @@
+/home/Seba/Repositorios/Proyectos/C#/Programa/bin/Debug/net10.0/Programa
+/home/Seba/Repositorios/Proyectos/C#/Programa/bin/Debug/net10.0/Programa.deps.json
+/home/Seba/Repositorios/Proyectos/C#/Programa/bin/Debug/net10.0/Programa.runtimeconfig.json
+/home/Seba/Repositorios/Proyectos/C#/Programa/bin/Debug/net10.0/Programa.dll
+/home/Seba/Repositorios/Proyectos/C#/Programa/bin/Debug/net10.0/Programa.pdb
+/home/Seba/Repositorios/Proyectos/C#/Programa/obj/Debug/net10.0/Programa.GeneratedMSBuildEditorConfig.editorconfig
+/home/Seba/Repositorios/Proyectos/C#/Programa/obj/Debug/net10.0/Programa.AssemblyInfoInputs.cache
+/home/Seba/Repositorios/Proyectos/C#/Programa/obj/Debug/net10.0/Programa.AssemblyInfo.cs
+/home/Seba/Repositorios/Proyectos/C#/Programa/obj/Debug/net10.0/Programa.csproj.CoreCompileInputs.cache
+/home/Seba/Repositorios/Proyectos/C#/Programa/obj/Debug/net10.0/Programa.sourcelink.json
+/home/Seba/Repositorios/Proyectos/C#/Programa/obj/Debug/net10.0/Programa.dll
+/home/Seba/Repositorios/Proyectos/C#/Programa/obj/Debug/net10.0/refint/Programa.dll
+/home/Seba/Repositorios/Proyectos/C#/Programa/obj/Debug/net10.0/Programa.pdb
+/home/Seba/Repositorios/Proyectos/C#/Programa/obj/Debug/net10.0/Programa.genruntimeconfig.cache
+/home/Seba/Repositorios/Proyectos/C#/Programa/obj/Debug/net10.0/ref/Programa.dll
